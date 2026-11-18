@@ -1,0 +1,5 @@
+101,Varshini Noora,92,89.5,94
+102,Ananya Sharma,84,88,86.5
+103,Rohan Verma,72.5,76,74
+104,Karthik Rao,95,91.5,93
+105,Meera Nair,64,68.5,66
